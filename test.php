@@ -2,7 +2,7 @@
 
 public class TestMe {
 	public function my_name() {
-		
+		return true;
 	}
 }
 
